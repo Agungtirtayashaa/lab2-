@@ -1,8 +1,8 @@
-print(" latihan1 ")
-
-a = input("Masukkan nilai N: ")
-
-for i in range(6):
-  from random import random 
-  a = random()
-  print(a)
+import random
+print("Bilangan acak yang lebih kecil dari 0,5")
+jum = int( input("Masukan nilai n : "))
+i = 0
+for i in range(jum):
+    i += 1
+    angkaDec = random.uniform(0, 0.5)
+    print("Data ke", i, " = ", angkaDec)
