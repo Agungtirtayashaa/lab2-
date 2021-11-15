@@ -55,13 +55,13 @@ contoh berulangan nested :
 
 # lab 3 latihan 2
 
-## menemtukan nilai menggunakan while dan for 
+## Menentukan nilai N menggunakan while dan for 
 
-![gambar](lt/19.jpg)
+![gambar](lt/21.jpg)
 
 ### Output
 
-![gambar](lt/20.jpg)
+![gambar](lt/22.jpg)
 
 
 Berikut penjelasan dari program diatas print ('Masukkan nilai N: 5')
